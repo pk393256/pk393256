@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='coding gif'/>
+<img width='500' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='coding gif'/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pk393256" alt="pk393256" /></a> </p>
 
