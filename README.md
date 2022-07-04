@@ -7,7 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pk393256&theme=white-green&hide_border=false&include_all_commits=false&count_private=false)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pk393256&theme=white-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' alt='coding gif'/>
@@ -26,6 +25,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pk393256&theme=white-green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pk393256&theme=white-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
