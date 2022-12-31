@@ -14,7 +14,7 @@
 <img width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align="right" alt='coding gif'/>
 
 # 💫 About Me:
-🔭 I’m currently working on backend<br>⚡ Fun fact I See THings DiFFerently ANd CreaTIvely.<br>👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+🔭 I’m currently working on backend<br>⚡ Fun fact I See THings DiFFerently ANd CreaTIvely.<br>👨‍💻 All of my projects are available at [https://github.com/pk393256](https://github.com/pk393256)
 
 
 
