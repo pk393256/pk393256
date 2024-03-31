@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">I am a Creative and passionate Full Stack developer</h3>
+<h3 align="center">I love thinking and coding</h3>
 <div style="display:grid;">
 
 <img width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align="right" alt='coding gif'/>
